@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![My Banner](https://github.com/username/your-repo-name/blob/main/banner-image.png)
 <!--
 **lsm8424/lsm8424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
